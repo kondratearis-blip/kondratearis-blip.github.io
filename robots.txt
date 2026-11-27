@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /app
+Disallow: /api
+Disallow: /login
+Disallow: /setup
+
+Sitemap: https://kondratearis-blip.github.io/sitemap.xml
