@@ -337,6 +337,30 @@
 <priority>0.7</priority>
 </url>
 <url>
+<loc>https://kondratearis-blip.github.io/projects/rossa-flowers/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/rossa-flowers/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/rossa-flowers/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/rossa-flowers/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/rossa-flowers/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/rossa-flowers/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/rossa-flowers/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/rossa-flowers/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/rossa-flowers/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/rossa-flowers/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/rossa-flowers/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/rossa-flowers/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
 <loc>https://kondratearis-blip.github.io/projects/azraud/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/azraud/" />
 <xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/azraud/" />
