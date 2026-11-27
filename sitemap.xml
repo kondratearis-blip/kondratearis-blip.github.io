@@ -1,187 +1,890 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://kondratearis-blip.github.io</loc>
+<loc>https://kondratearis-blip.github.io/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/" />
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects</loc>
+<loc>https://kondratearis-blip.github.io/ru/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/" />
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/" />
 <changefreq>monthly</changefreq>
 <priority>0.9</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/about</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/" />
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/" />
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/about/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/about/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/about/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/technologies</loc>
+<loc>https://kondratearis-blip.github.io/ru/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/about/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/about/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/about/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/contact</loc>
+<loc>https://kondratearis-blip.github.io/ja/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/about/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/about/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/about/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kokoro</loc>
+<loc>https://kondratearis-blip.github.io/technologies/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/technologies/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/technologies/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/technologies/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/smena</loc>
+<loc>https://kondratearis-blip.github.io/ru/technologies/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/technologies/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/technologies/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/technologies/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kinetik</loc>
+<loc>https://kondratearis-blip.github.io/ja/technologies/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/technologies/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/technologies/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/technologies/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kinetik-reels</loc>
+<loc>https://kondratearis-blip.github.io/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/contact/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/contact/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/contact/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/career-system</loc>
+<loc>https://kondratearis-blip.github.io/ru/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/contact/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/contact/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/contact/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/ai-business-assistant</loc>
+<loc>https://kondratearis-blip.github.io/ja/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/contact/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/contact/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/contact/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/ai-sales-automation</loc>
+<loc>https://kondratearis-blip.github.io/projects/kokoro/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/breaking-store</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/kokoro/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/chikkenoff</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/kokoro/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/azraud</loc>
+<loc>https://kondratearis-blip.github.io/projects/smena/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/smena/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/smena/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/smena/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/belaya-reka</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/smena/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/smena/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/smena/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/smena/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/coffee-loyalty</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/smena/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/smena/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/smena/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/smena/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/tg-catalog-bot</loc>
+<loc>https://kondratearis-blip.github.io/projects/kinetik/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kinetik/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kinetik/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kinetik/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/bulut</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/kinetik/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kinetik/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kinetik/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kinetik/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kokoro-decks</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/kinetik/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kinetik/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kinetik/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kinetik/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kokoro-app</loc>
+<loc>https://kondratearis-blip.github.io/projects/kinetik-reels/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kinetik-reels/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kinetik-reels/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kinetik-reels/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kokoro-promo</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/kinetik-reels/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kinetik-reels/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kinetik-reels/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kinetik-reels/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kokoro-order</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/kinetik-reels/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kinetik-reels/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kinetik-reels/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kinetik-reels/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/kokoro-avatar</loc>
+<loc>https://kondratearis-blip.github.io/projects/career-system/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/career-system/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/career-system/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/career-system/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/club-live-map</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/career-system/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/career-system/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/career-system/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/career-system/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/tulpar-auto</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/career-system/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/career-system/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/career-system/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/career-system/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/volta</loc>
+<loc>https://kondratearis-blip.github.io/projects/ai-business-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/ai-business-assistant/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/ai-business-assistant/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/ai-business-assistant/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/mkgroup</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/ai-business-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/ai-business-assistant/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/ai-business-assistant/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/ai-business-assistant/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/haze</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/ai-business-assistant/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/ai-business-assistant/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/ai-business-assistant/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/ai-business-assistant/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/arisong</loc>
+<loc>https://kondratearis-blip.github.io/projects/ai-sales-automation/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/ai-sales-automation/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/ai-sales-automation/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/ai-sales-automation/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/claude-cartoon</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/ai-sales-automation/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/ai-sales-automation/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/ai-sales-automation/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/ai-sales-automation/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/portfolio-reels</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/ai-sales-automation/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/ai-sales-automation/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/ai-sales-automation/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/ai-sales-automation/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/toolkit</loc>
+<loc>https://kondratearis-blip.github.io/projects/breaking-store/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/breaking-store/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/breaking-store/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/breaking-store/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/cod</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/breaking-store/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/breaking-store/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/breaking-store/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/breaking-store/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/bishkek-leads</loc>
+<loc>https://kondratearis-blip.github.io/ja/projects/breaking-store/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/breaking-store/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/breaking-store/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/breaking-store/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/camera-studio</loc>
+<loc>https://kondratearis-blip.github.io/projects/chikkenoff/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/chikkenoff/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/chikkenoff/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/chikkenoff/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
 <url>
-<loc>https://kondratearis-blip.github.io/projects/wedding</loc>
+<loc>https://kondratearis-blip.github.io/ru/projects/chikkenoff/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/chikkenoff/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/chikkenoff/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/chikkenoff/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/chikkenoff/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/chikkenoff/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/chikkenoff/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/chikkenoff/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/azraud/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/azraud/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/azraud/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/azraud/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/azraud/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/azraud/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/azraud/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/azraud/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/azraud/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/azraud/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/azraud/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/azraud/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/belaya-reka/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/belaya-reka/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/belaya-reka/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/belaya-reka/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/belaya-reka/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/belaya-reka/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/belaya-reka/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/belaya-reka/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/belaya-reka/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/belaya-reka/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/belaya-reka/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/belaya-reka/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/coffee-loyalty/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/coffee-loyalty/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/coffee-loyalty/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/coffee-loyalty/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/coffee-loyalty/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/coffee-loyalty/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/coffee-loyalty/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/coffee-loyalty/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/coffee-loyalty/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/coffee-loyalty/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/coffee-loyalty/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/coffee-loyalty/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/tg-catalog-bot/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/tg-catalog-bot/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/tg-catalog-bot/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/tg-catalog-bot/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/tg-catalog-bot/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/tg-catalog-bot/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/tg-catalog-bot/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/tg-catalog-bot/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/tg-catalog-bot/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/tg-catalog-bot/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/tg-catalog-bot/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/tg-catalog-bot/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/bulut/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/bulut/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/bulut/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/bulut/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/bulut/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/bulut/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/bulut/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/bulut/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/bulut/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/bulut/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/bulut/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/bulut/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/kokoro-decks/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-decks/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-decks/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-decks/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/kokoro-decks/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-decks/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-decks/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-decks/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/kokoro-decks/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-decks/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-decks/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-decks/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/kokoro-app/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-app/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-app/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-app/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/kokoro-app/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-app/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-app/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-app/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/kokoro-app/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-app/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-app/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-app/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/kokoro-promo/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-promo/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-promo/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-promo/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/kokoro-promo/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-promo/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-promo/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-promo/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/kokoro-promo/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-promo/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-promo/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-promo/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/kokoro-order/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-order/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-order/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-order/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/kokoro-order/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-order/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-order/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-order/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/kokoro-order/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-order/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-order/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-order/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/kokoro-avatar/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-avatar/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-avatar/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-avatar/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/kokoro-avatar/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-avatar/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-avatar/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-avatar/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/kokoro-avatar/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/kokoro-avatar/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/kokoro-avatar/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/kokoro-avatar/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/club-live-map/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/club-live-map/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/club-live-map/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/club-live-map/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/club-live-map/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/club-live-map/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/club-live-map/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/club-live-map/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/club-live-map/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/club-live-map/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/club-live-map/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/club-live-map/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/tulpar-auto/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/tulpar-auto/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/tulpar-auto/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/tulpar-auto/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/tulpar-auto/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/tulpar-auto/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/tulpar-auto/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/tulpar-auto/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/tulpar-auto/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/tulpar-auto/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/tulpar-auto/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/tulpar-auto/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/volta/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/volta/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/volta/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/volta/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/volta/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/volta/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/volta/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/volta/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/volta/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/volta/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/volta/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/volta/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/mkgroup/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/mkgroup/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/mkgroup/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/mkgroup/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/mkgroup/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/mkgroup/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/mkgroup/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/mkgroup/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/mkgroup/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/mkgroup/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/mkgroup/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/mkgroup/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/haze/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/haze/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/haze/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/haze/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/haze/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/haze/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/haze/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/haze/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/haze/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/haze/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/haze/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/haze/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/arisong/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/arisong/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/arisong/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/arisong/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/arisong/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/arisong/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/arisong/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/arisong/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/arisong/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/arisong/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/arisong/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/arisong/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/claude-cartoon/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/claude-cartoon/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/claude-cartoon/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/claude-cartoon/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/claude-cartoon/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/claude-cartoon/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/claude-cartoon/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/claude-cartoon/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/claude-cartoon/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/claude-cartoon/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/claude-cartoon/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/claude-cartoon/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/portfolio-reels/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/portfolio-reels/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/portfolio-reels/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/portfolio-reels/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/portfolio-reels/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/portfolio-reels/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/portfolio-reels/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/portfolio-reels/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/portfolio-reels/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/portfolio-reels/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/portfolio-reels/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/portfolio-reels/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/toolkit/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/toolkit/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/toolkit/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/toolkit/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/toolkit/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/toolkit/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/toolkit/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/toolkit/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/toolkit/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/toolkit/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/toolkit/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/toolkit/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/cod/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/cod/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/cod/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/cod/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/cod/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/cod/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/cod/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/cod/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/cod/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/cod/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/cod/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/cod/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/bishkek-leads/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/bishkek-leads/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/bishkek-leads/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/bishkek-leads/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/bishkek-leads/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/bishkek-leads/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/bishkek-leads/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/bishkek-leads/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/bishkek-leads/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/bishkek-leads/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/bishkek-leads/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/bishkek-leads/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/camera-studio/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/camera-studio/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/camera-studio/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/camera-studio/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/camera-studio/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/camera-studio/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/camera-studio/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/camera-studio/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/camera-studio/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/camera-studio/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/camera-studio/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/camera-studio/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/projects/wedding/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/wedding/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/wedding/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/wedding/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ru/projects/wedding/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/wedding/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/wedding/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/wedding/" />
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://kondratearis-blip.github.io/ja/projects/wedding/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://kondratearis-blip.github.io/projects/wedding/" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://kondratearis-blip.github.io/ru/projects/wedding/" />
+<xhtml:link rel="alternate" hreflang="ja" href="https://kondratearis-blip.github.io/ja/projects/wedding/" />
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
 </url>
